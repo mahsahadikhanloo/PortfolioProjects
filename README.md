@@ -1,4 +1,4 @@
-Analyzing COVID-19 Datasets with SQL: Gaining insights into the pandemic through data-driven queries.
+Analyzing COVID-19 Datasets with SQL Server: Gaining insights into the pandemic through data-driven queries.
 Get data set from https://ourworldindata.org/covid-deaths .
 The purpose of this SQL Project is to analyze COVID-19 datasets related to deaths and vaccinations. The datasets contain information on the number of COVID-19 cases, deaths, vaccinations, the population of various countries, etc. The queries help us understand:
 •	Total cases vs total deaths.
