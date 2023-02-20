@@ -80,7 +80,7 @@ select * from CovidDatabase..CovidVaccination
 
 ---Join the two tables
 select *
-from CovidDatabase..CovidDeaths$ dea
+from CovidDatabase..CovidDeaths dea
 Join CovidDatabase..CovidVaccination vac
 	on dea.location = vac.location
 	and dea.date = vac.date
