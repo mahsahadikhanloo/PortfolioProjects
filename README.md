@@ -10,5 +10,5 @@ The purpose of this SQL Project is to analyze COVID-19 datasets related to death
 •	The percentage of the population that is fully vaccinated.
 •	Global Numbers.
 •	Total Population vs Vaccination.
-I also created a view to store the combined data for later visualizations, using #Tableau in the upcoming post.
+I also created a view to store the combined data for later visualizations.
 
